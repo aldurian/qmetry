@@ -3,6 +3,6 @@
 /test-results/
 /target/
 /img/
-/test-output/
-/junitreports/
-/QAF Demo/
+/test-output/*
+/junitreports/*
+/QAF Demo/*
