@@ -1,6 +1,8 @@
-/bin
-/dist
-/test-results
+/bin/
+/dist/
+/test-results/
 /target/
 /img/
 /test-output/
+/junitreports/
+/QAF Demo/
